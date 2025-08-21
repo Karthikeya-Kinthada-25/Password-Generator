@@ -10,7 +10,7 @@ A customizable CLI password generator written in Python.
 ## Usage
 1. **Run the script:**
    ```sh
-   python password_generator.py
+   python pwd.py
    ```
 
 2. **Generate passwords programmatically:**
